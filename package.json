@@ -1,0 +1,14 @@
+{
+  "name": "hcode_ffmpeg",
+  "version": "1.0.0",
+  "description": "HCode - Curso de NodeJS (Módulo: FFMPEG)",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon -L"
+  },
+  "author": "Diogo Souza",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
