@@ -4,7 +4,7 @@
   "description": "HCode - Curso de NodeJS (Módulo: FFMPEG)",
   "main": "src/index.js",
   "scripts": {
-    "dev": "nodemon -L"
+    "start": "nodemon -L"
   },
   "author": "Diogo Souza",
   "license": "MIT",

@@ -2,3 +2,6 @@ node_modules
 src/ffmpeg_exec/**/*
 src/videos/original/**/*
 src/videos/converted/**/*
+
+!src/ffmpeg_exec/readme.txt
+!src/videos/configuracao.txt
